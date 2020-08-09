@@ -7,3 +7,5 @@ Clique nos quadrados até encontrar a cor correta.
 O jogo possui três dificuldades.
 
 Divirta-se.
+
+https://maia-color-game.neocities.org
